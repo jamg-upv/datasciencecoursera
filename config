@@ -1,6 +1,8 @@
 ## early steps 
     Find a program called Git Bash, which is the command line environment for interacting with Git
     It should be located in the directory into which Git was installed (or, for Windows users, in the Start Menu)
+## http://jtleek.github.io/modules/01_DataScientistToolbox/02_04_git/#10
+
 
 $ git config --global user.name "Your Name Here"
 $ git config --global user.email "your_email@example.com"
